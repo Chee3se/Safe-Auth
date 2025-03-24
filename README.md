@@ -1,3 +1,3 @@
-# A simple Safe Athenitification application made with PHP
+# A simple Safe Authentication application made with PHP
 
 ![Preview](preview.png)
